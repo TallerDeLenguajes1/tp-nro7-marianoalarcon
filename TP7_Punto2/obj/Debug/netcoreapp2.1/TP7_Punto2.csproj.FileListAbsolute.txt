@@ -1,0 +1,11 @@
+C:\Users\Mariano\source\repos\TP7-AlarconMariano\TP7_Punto2\bin\Debug\netcoreapp2.1\TP7_Punto2.deps.json
+C:\Users\Mariano\source\repos\TP7-AlarconMariano\TP7_Punto2\bin\Debug\netcoreapp2.1\TP7_Punto2.runtimeconfig.json
+C:\Users\Mariano\source\repos\TP7-AlarconMariano\TP7_Punto2\bin\Debug\netcoreapp2.1\TP7_Punto2.runtimeconfig.dev.json
+C:\Users\Mariano\source\repos\TP7-AlarconMariano\TP7_Punto2\bin\Debug\netcoreapp2.1\TP7_Punto2.dll
+C:\Users\Mariano\source\repos\TP7-AlarconMariano\TP7_Punto2\bin\Debug\netcoreapp2.1\TP7_Punto2.pdb
+C:\Users\Mariano\source\repos\TP7-AlarconMariano\TP7_Punto2\obj\Debug\netcoreapp2.1\TP7_Punto2.csprojAssemblyReference.cache
+C:\Users\Mariano\source\repos\TP7-AlarconMariano\TP7_Punto2\obj\Debug\netcoreapp2.1\TP7_Punto2.csproj.CoreCompileInputs.cache
+C:\Users\Mariano\source\repos\TP7-AlarconMariano\TP7_Punto2\obj\Debug\netcoreapp2.1\TP7_Punto2.AssemblyInfoInputs.cache
+C:\Users\Mariano\source\repos\TP7-AlarconMariano\TP7_Punto2\obj\Debug\netcoreapp2.1\TP7_Punto2.AssemblyInfo.cs
+C:\Users\Mariano\source\repos\TP7-AlarconMariano\TP7_Punto2\obj\Debug\netcoreapp2.1\TP7_Punto2.dll
+C:\Users\Mariano\source\repos\TP7-AlarconMariano\TP7_Punto2\obj\Debug\netcoreapp2.1\TP7_Punto2.pdb
